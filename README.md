@@ -24,7 +24,7 @@ Welcome to my Data Analytics portfolio! Here, you will find my projects showcasi
 - Data Visualization & Business Insights
 
 ## 📫 Connect with Me
-💼 [LinkedIn](#) | 📧 [Email](#)
+💼 [LinkedIn](https://www.linkedin.com/in/jis-mendiola-0a0282244/) | 📧 [Email](bsis.mendiolajohnivans@gmail.com)
 
 ---
 🚀 **More projects coming soon! Stay tuned.**
