@@ -1,0 +1,14 @@
+Key Lessons and Insights from Building the Sari-Sari Store Dashboard
+
+1. Data Modeling and Preparation: Mastering efficient data structuring, ensuring accurate relationships between tables, and cleaning data for precise analysis.
+
+2. DAX Measures and Calculations: Developing advanced DAX formulas for critical metrics such as Total Sales, Total Profit, Profit Margin, and Average Transaction Value, enhancing data-driven insights.
+
+3. Visualization and User Experience: Designing an intuitive and user-friendly interface that simplifies data exploration and delivers actionable insights at a glance.
+
+4. Future Improvements and Scalability: Identifying opportunities for expanding the dashboard’s capabilities, including automation, advanced analytics, and integration with external data sources.
+
+5. Critical Thinking and Problem-Solving: Overcoming complex data challenges, optimizing calculations, and designing a dashboard that adapts to user needs.
+
+Tools
+Excel, Power Bi
