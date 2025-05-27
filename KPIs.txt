@@ -1,0 +1,11 @@
+TotalSales
+- Show the Revenue for the whole year, reflecting strong performance overall
+
+Average Sales Growth per Month
+- Show steady upward trend, peak season was Nov-Dec due to campaign season.
+
+Sales per Region
+- West region lead the sales (29% of Total) while the east is at the bottom describe underperforming.
+
+Sales per Product
+- Headphones lead the sale with 22.35% of the Total Sales indicates strong product fit while laptop is 16.52% of Total steady upward.
